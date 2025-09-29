@@ -1,0 +1,6 @@
+Human: Hi, I need help with my order.
+AI: Sure! Can you provide your order ID?
+Human: My order ID is 12345.
+AI: Thank you! I see your order. When did you place it?
+Human: I placed it last week.
+AI: Your order is being processed and should arrive in 2-3 days.
